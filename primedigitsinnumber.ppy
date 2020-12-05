@@ -1,0 +1,12 @@
+
+def 
+
+
+
+
+
+
+
+num=input("Enter Number:")
+for i in range(len(num))
+	prime(num[i])
